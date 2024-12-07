@@ -1,3 +1,8 @@
+#Source
+https://superuser.com/a/1434648
+https://gist.github.com/primaryobjects/ce8c7173ff9c6a453cda336aa2e3ff5c
+
+
 Right on the windows start button and on click the "Event Viewer" or Search bar and type "Event Viewer"
 
 ![1](https://github.com/user-attachments/assets/2b8e2c41-5e2e-4e60-b5b6-53e9fcd0fa06)
