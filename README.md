@@ -2,7 +2,7 @@
 
 https://superuser.com/a/1434648
 
-https://gist.github.com/primaryobjects/ce8c7173ff9c6a453cda336aa2e3ff5c
+https://gist.github.com/primaryobjects/8b54f7f4219960127f1f620116315a37
 
 
 Right on the windows start button and on click the "Event Viewer" or Search bar and type "Event Viewer"
