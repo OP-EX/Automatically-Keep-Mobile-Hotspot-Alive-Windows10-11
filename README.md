@@ -14,7 +14,7 @@ WLAN-AutoConfig is for your hotspot
 
 **Event ID you need the know:**
  
-Event ID 10000 is for NetworkProfile
+Event ID 11001 is for WLAN-AutoConfig
 
 Event ID 8008 is for WLAN-AutoConfig
 
@@ -31,7 +31,8 @@ Set "**Begin the task**" On an event
 
 Next follow the picture this trigger is for turn on the hotspot when you connect to the wifi
 
-![3](https://github.com/user-attachments/assets/861ccf06-216a-42ae-b915-682154f53859)
+![6](https://github.com/user-attachments/assets/ea04d44c-735c-4789-b947-7f02628e616c)
+
 
 
 and this trigger is for turn on the hotspot if it turn off 
