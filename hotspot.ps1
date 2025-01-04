@@ -23,12 +23,9 @@ Function SetHotspot($Enable) {
     if ($Enable -eq 1) {
         "Hotspot is off! Turning it on"
         Await ($tetheringManager.StartTetheringAsync()) ([Windows.Networking.NetworkOperators.NetworkOperatorTetheringOperationResult])
-        exit  # end the script to the the boot loop error
-
     }
     else {
         "Hotspot is on! Turning it off"
-         exit  # end the script tothe boot loop error
     }
 }
 
@@ -38,7 +35,6 @@ Function ToggleHotspot($Delay) {
     #SetHotspot(0)
     #sleep -seconds $Delay
     SetHotspot(1)
-    exit  # end the script to the boot loop error
 }
 
 ToggleHotspot(2)
